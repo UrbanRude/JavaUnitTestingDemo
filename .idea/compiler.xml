@@ -9,8 +9,5 @@
         <module name="junit5-maven-example" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="junit5-maven-example" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
